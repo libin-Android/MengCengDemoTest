@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        //生命周期
         initView();
     }
 }
