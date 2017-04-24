@@ -5,6 +5,3 @@
 .idea
 /build
 /captures
-app/build.gradle
-app/libs/
-app/proguard-rules.pro
